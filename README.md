@@ -15,7 +15,7 @@ The image below shows the flask website.
 
 # Description
  # What this project does?
- 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase and Number of miles travel it has been driven.
+ 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase and Number of miles it has been driven.
  2. It then predicts the possible price of the car. For example, the image below shows the predicted price of Mercedes-Benz AMG and Cadillac Escalade.
 
 
