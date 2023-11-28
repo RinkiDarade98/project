@@ -8,9 +8,12 @@ This project aims to predict the Price of an used Car by taking it's Company nam
 # Overview 
 In this project we have implemented a regression model to predict the price of used cars according to the parameters: model, mileage, manufacturer, year of purchase, city, state, unique car number on a dataset consists of 8 Lac rows & 8 columns. Our aim was to apply various ML algorithms such as Catboost, XGBoost, RandomForest with Python. Compairing the results & finding most accurate model. Also we have performed ETL using big data technologies. And built a Flask website to serve the model and deployed our model on AWS EC2 . And created Tableau dashboard for data visualization.
 
-The image below shows the flask website.
+The images below show the flask website. Which was deploy onto AWS EC2. 
 
 ![readme](https://github.com/RinkiDarade98/project/assets/129477415/5c7b156a-e364-4017-a5e7-621e1d09a27c)
+
+
+![readme5](https://github.com/RinkiDarade98/project/assets/129477415/ce9d3183-8d93-4143-9634-6cbf47c8c577)
 
 
 # Description
